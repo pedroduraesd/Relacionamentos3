@@ -1,0 +1,159 @@
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.exe
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.deps.json
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.runtimeconfig.json
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.pdb
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.csproj.AssemblyReference.cache
+C:\Users\IFNMG\progvisB\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFNMG\progvisB\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.AssemblyInfoInputs.cache
+C:\Users\IFNMG\progvisB\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.AssemblyInfo.cs
+C:\Users\IFNMG\progvisB\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.csproj.CoreCompileInputs.cache
+C:\Users\IFNMG\progvisB\Relacionamentos3\obj\Debug\net8.0\Relacion.12D16AFA.Up2Date
+C:\Users\IFNMG\progvisB\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\obj\Debug\net8.0\refint\Relacionamentos3.dll
+C:\Users\IFNMG\progvisB\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.pdb
+C:\Users\IFNMG\progvisB\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.genruntimeconfig.cache
+C:\Users\IFNMG\progvisB\Relacionamentos3\obj\Debug\net8.0\ref\Relacionamentos3.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.exe
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.deps.json
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.runtimeconfig.json
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.pdb
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.csproj.AssemblyReference.cache
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.AssemblyInfoInputs.cache
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.AssemblyInfo.cs
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.csproj.CoreCompileInputs.cache
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\obj\Debug\net8.0\Relacion.12D16AFA.Up2Date
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\obj\Debug\net8.0\refint\Relacionamentos3.dll
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.pdb
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.genruntimeconfig.cache
+C:\Users\IFNMG\Prog. Visual 2025\Projetos\Programas\Relacionamentos3\obj\Debug\net8.0\ref\Relacionamentos3.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.exe
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.deps.json
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.runtimeconfig.json
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Relacionamentos3.pdb
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.csproj.AssemblyReference.cache
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.AssemblyInfoInputs.cache
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.AssemblyInfo.cs
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.csproj.CoreCompileInputs.cache
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\obj\Debug\net8.0\Relacion.12D16AFA.Up2Date
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\obj\Debug\net8.0\refint\Relacionamentos3.dll
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.pdb
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\obj\Debug\net8.0\Relacionamentos3.genruntimeconfig.cache
+C:\Users\MyCode\Downloads\pedrofisica\Relacionamentos3\obj\Debug\net8.0\ref\Relacionamentos3.dll
