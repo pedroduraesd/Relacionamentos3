@@ -6,6 +6,12 @@ namespace Relacionamentos3
 {
     public class Usuario
     {
+
+        public Usuario()
+        {
+            Telefones = new List<Telefone>();
+            UsuariosEnderecos = new List<UsuarioEndereco>();
+        }
         public UInt64 Id { get; set; }
         private String? _nome;
         [Required]
@@ -32,7 +38,10 @@ namespace Relacionamentos3
 
         [ForeignKey ("credencial_id")]
         public Credencial Credencial { get; set; }
-        public List<Telefone> Telefones { get; set; } = new List<Telefone>();
+
+        [ForeignKey ("usuario_id")]
+        public List<Telefone> Telefones { get; set; }
+        public List<UsuarioEndereco> UsuariosEnderecos { get; set; }
 
         public void AddTelefone(Telefone telefone)
         {

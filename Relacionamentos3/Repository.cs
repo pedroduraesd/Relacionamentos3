@@ -20,5 +20,21 @@ namespace Relacionamentos3
             base.OnConfiguring(optionsBuilder);
             optionsBuilder.UseMySQL(_connectionParams);
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<UsuarioEndereco>(
+                entity =>
+                {
+                    entity.HasKey(ue => new
+                    {
+                        ue.UsuarioId,
+                        ue.EnderecoId
+                    });
+                    entity.Property(ue => ue.UsuarioId).HasColumnName("usuario_id");
+                    entity.Property(ue => ue.EnderecoId).HasColumnName("endereco_id");
+                });
+        }
     }
 }

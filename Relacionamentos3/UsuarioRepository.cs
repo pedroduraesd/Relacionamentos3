@@ -55,15 +55,5 @@ namespace Relacionamentos3
                 throw;
             }
         }
-        //public static List<Telefone> FindAllTelefones()
-        //{
-        //    try
-        //    {
-        //        using (Repository dbContext = new Repository())
-        //        {
-        //            return dbContext.Usuarios.Include("Telefone").;
-        //        }
-        //    }
-        //} 
     }
 }

@@ -9,5 +9,6 @@ namespace Relacionamentos3
         public UInt64 Id { get; set; }
         public Byte Ddd { get; set; }
         public UInt32 Numero {  get; set; }
+        public Usuario Usuario { get; set; }
     }
 }
